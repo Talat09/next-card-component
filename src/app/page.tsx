@@ -162,7 +162,7 @@ export default function Home() {
                   <span className="text-base line-through text-[#444444]">
                     ₹ 34,440.87
                   </span>
-                  <span className="ml-2 text-2xl font-bold text-blue-600">
+                  <span className="ml-2 text-2xl font-bold text-[#5054D9]">
                     ₹ 31,440.87
                   </span>
                 </div>
