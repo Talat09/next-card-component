@@ -98,7 +98,7 @@ export default function Home() {
                 <div className="flex gap-4 mb-3 md:mb-4">
                   <div className="flex items-center">
                     <Image className="w-4 h-4 mr-2" src={wifi} alt="wifi" />
-                    <span className="text-[9px] md:text-sm font-medium">
+                    <span className="text-[9px] md:text-sm font-medium text-[#626262]">
                       Free Wifi
                     </span>
                   </div>
@@ -108,7 +108,7 @@ export default function Home() {
                       src={swimmingPool}
                       alt="pool"
                     />
-                    <span className="text-[9px] md:text-sm font-medium">
+                    <span className="text-[9px] md:text-sm font-medium text-[#626262]">
                       Swimming Pool
                     </span>
                   </div>
@@ -118,7 +118,7 @@ export default function Home() {
                       src={building}
                       alt="building"
                     />
-                    <span className="text-[9px] md:text-sm font-medium">
+                    <span className="text-[9px] md:text-sm font-medium text-[#626262]">
                       City View
                     </span>
                   </div>
